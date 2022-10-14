@@ -7,7 +7,7 @@ public class Betaling {
     private int kontant;
     private int kredit;
     private boolean kreditlån;
-
+    private boolean wei;
 
     // getter for Betaling
     public int getKort(){
